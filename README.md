@@ -4,6 +4,10 @@ Pour m'entrainer je refais tous les TD Algo de [Alain Casali](https://ens.casali
 
 ## Liens utiles
 
+### Print
+
+[printf](https://www.w3schools.com/java/ref_output_printf.asp)
+
 ### Types de données
 
 [Types primitifs](https://www.w3schools.com/java/java_data_types.asp)
