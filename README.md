@@ -1,6 +1,6 @@
 # TD-Casali-en-Java
 
-Pour m'entrainer en Java je refais tous les TD C++ de Alain Casali en Java.
+Pour m'entrainer je refais tous les TD Algo de [Alain Casali](https://ens.casali.me) en Java.
 
 ## Liens utiles
 
