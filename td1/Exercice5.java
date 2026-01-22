@@ -6,7 +6,6 @@ public class Exercice5 {
 
         //Saisie de la taille et du poids
         double P, T;
-
         System.out.print("Entrez votre poids (kg) : ");
         P = scanner.nextDouble();
         System.out.print("Entrez votre taille (m) : ");

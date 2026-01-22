@@ -6,7 +6,6 @@ public class Exercice3 {
 
         //Saisie des coefficients et de x
         double a, b, c, x, resultat;
-
         System.out.print("Entrez la valeur du coefficient a : ");
         a = scanner.nextDouble();
         System.out.print("Entrez la valeur du coefficient b : ");
