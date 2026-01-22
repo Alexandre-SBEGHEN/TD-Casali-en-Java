@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercice3 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         //Saisie des coefficients et de x

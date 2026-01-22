@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Exercice8 {
-    public static void main() {
+    public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
         //Saisie de l'entier
