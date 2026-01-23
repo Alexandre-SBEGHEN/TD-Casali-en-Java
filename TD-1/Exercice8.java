@@ -25,5 +25,7 @@ public class Exercice8 {
             System.out.println("est divisible par 3 mais n'est pas divisible par 5.");
         else
             System.out.println("est divisible par 5 mais n'est pas divisible par 3.");
+
+        scanner.close();
     }
 }

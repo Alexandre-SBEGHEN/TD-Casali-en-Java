@@ -20,5 +20,6 @@ public class Exercice3 {
         System.out.print("Le résultat du polynôme vaut : ");
         System.out.println(resultat);
 
+        scanner.close();
     }
 }

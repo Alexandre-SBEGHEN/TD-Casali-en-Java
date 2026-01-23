@@ -17,5 +17,7 @@ public class Exercice6 {
             System.out.println("L'année est bissextile.");
         else
             System.out.println("L'année n'est pas bissextile.");
+
+        scanner.close();
     }
 }

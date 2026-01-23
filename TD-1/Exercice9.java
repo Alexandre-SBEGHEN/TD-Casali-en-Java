@@ -31,5 +31,7 @@ public class Exercice9 {
         System.out.println(mot1);
         System.out.print("Le second mot vaut : ");
         System.out.println(mot2);
+
+        scanner.close();
     }
 }

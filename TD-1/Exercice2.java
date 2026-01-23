@@ -7,5 +7,7 @@ public class Exercice2 {
         System.out.print("saisir une string: ");
         String chaine = scanner.nextLine();
         System.out.println(chaine);
+
+        scanner.close();
     }
 }

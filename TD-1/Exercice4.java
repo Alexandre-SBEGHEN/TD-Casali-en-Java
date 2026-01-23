@@ -39,5 +39,7 @@ public class Exercice4 {
             //Aucune solution réelle
             System.out.println("Le polynôme n'admet pas de racine réelle.");
         }
+
+        scanner.close();
     }
 }

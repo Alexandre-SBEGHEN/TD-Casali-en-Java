@@ -23,6 +23,7 @@ public class Exercice5 {
             System.out.println("Attention, il y a une tendance à l'obésité.");
         else
             System.out.println("Il y a une obésité certaine.");
-            
+
+        scanner.close();
     }
 }

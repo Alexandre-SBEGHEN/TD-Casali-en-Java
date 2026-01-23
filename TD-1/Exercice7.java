@@ -20,5 +20,7 @@ public class Exercice7 {
             System.out.println("Le triangle est rectangle.");
         else
             System.out.println("Le triangle n'est pas rectangle.");
+
+        scanner.close();
     }
 }
