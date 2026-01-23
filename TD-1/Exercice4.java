@@ -6,10 +6,13 @@ public class Exercice4 {
 
         //Saisie des coefficients
         double a, b, c;
+
         System.out.print("Entrez la valeur du coefficient a : ");
         a = scanner.nextDouble();
+
         System.out.print("Entrez la valeur du coefficient b : ");
         b = scanner.nextDouble();
+        
         System.out.print("Entrez la valeur du coefficient c : ");
         c = scanner.nextDouble();
 

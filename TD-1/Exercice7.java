@@ -6,10 +6,13 @@ public class Exercice7 {
 
         //Saisie des côtés
         double a, b, c;
+
         System.out.print("Entrez la valeur du côté a : ");
         a = scanner.nextDouble();
+
         System.out.print("Entrez la valeur du côté b : ");
         b = scanner.nextDouble();
+        
         System.out.print("Entrez la valeur du côté c : ");
         c = scanner.nextDouble();
 

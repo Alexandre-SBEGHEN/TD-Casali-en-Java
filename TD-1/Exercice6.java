@@ -6,6 +6,7 @@ public class Exercice6 {
 
         //Saisir l'année
         int annee;
+        
         System.out.print("Veuillez saisir une année : ");
         annee = scanner.nextInt();
 

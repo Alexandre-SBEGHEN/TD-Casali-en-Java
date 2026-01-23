@@ -6,6 +6,7 @@ public class Exercice8 {
 
         //Saisie de l'entier
         int nombre;
+        
         System.out.print("Veuillez saisir un entier : ");
         nombre = scanner.nextInt();
 
